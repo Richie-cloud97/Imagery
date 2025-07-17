@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -20,7 +19,6 @@
   </style>
 </head>
 <body>
-  <h1>😂 Here's a random funny image!</h1>
   <img id="randomImage" src="" alt="Random funny image" />
   <script>
     function getRandomImage() {
